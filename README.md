@@ -9,3 +9,5 @@
 - crusher has a low chance of duplicating ores, can be upgraded by addding different blocks next to it
 - special furnace that is a bit faster, can be even faster by adding a blower that is water powered, needs more coal though
 - press can create plates (one ingot = one plate)
+- unfired stuff crafted from clay that has to be burned
+- in combination with sand?
